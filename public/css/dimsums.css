@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+    overflow-x: auto;
+}
+
+h1{
+    display:inline-block;
+}
+
+.inform-btn{
+    float:right;
+}
+
+td#dimsum_id{
+    min-width: 89px;
+}
