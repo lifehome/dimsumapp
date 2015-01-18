@@ -1,8 +1,7 @@
 ## DimOrder
 
-
-
-DimOrder 是一個點心下單系統，主要寫成 Dimsum Inventory System 及 Order taking (Cordova+Ratchet) 兩部份。
+DimOrder 是一個點心下單系統，主要寫成兩部份：
+` Dimsum Inventory System 及 Order taking (Cordova+Ratchet) `
 
 ## Official Documentation
 
